@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/NVIDIA/nccl/archive/v{{ version }}.tar.gz
-  sha256: a788b1d7da5e96c7cf435f7b21ad5b1dc0ea211b298f293d4bda86ec62f4ce09
+  sha256: fa2bec307270f30fcf6280a85f24ea8801e0ce3b3027937c7325260a890b07e0
 
 build:
   number: 0
